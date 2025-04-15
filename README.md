@@ -56,6 +56,12 @@ Let me know if you'd like further refinements or additional details
    git clone https://github.com/danyallya/Apps-Pipeline-2017.git
    ```
 
+   # Contact Information
+
+Phone: +98 935 162 96 70
+
+Email: danyal.yasheikh@gmail.com
+
 
 2. Navigate to the project directory:
 
